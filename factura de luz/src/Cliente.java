@@ -30,5 +30,4 @@ public class Cliente {
         System.out.println("Total a pagar: "+total());
         System.out.println("-------------------");
     }
-
 }
